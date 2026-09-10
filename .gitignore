@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Documento pessoal do programa de formacao -- nao publicar
+programa.md
+registro.md
