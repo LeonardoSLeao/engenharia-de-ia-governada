@@ -1,0 +1,11 @@
+# Normaliza fim de linha no repositorio, independente do sistema operacional
+* text=auto eol=lf
+
+# Arquivos que nunca devem sofrer conversao
+*.png binary
+*.jpg binary
+*.pdf binary
+*.ipynb -text
+*.pt binary
+*.bin binary
+*.safetensors binary
